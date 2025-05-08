@@ -20,7 +20,7 @@ streamlit run main.py
 
 ## User Interface:
 
-![User Interface of the DownloadDex App](User Interface.png)
+![User Interface of the DownloadDex App](User_Interface.png)
 
 
 ## Contribution and Feedbacks:
